@@ -1,5 +1,5 @@
 # spider-chenhr
-python，爬虫。
+Python3，爬虫。
 
 化工英才网职位信息：
 
